@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ProjetoSaqueEletronicoLunara\ProjetoSaqueEletronicoLunara\bin\Debug\netcoreapp3.1\ProjetoSaqueEletronicoLunara.exe
+C:\Users\User\source\repos\ProjetoSaqueEletronicoLunara\ProjetoSaqueEletronicoLunara\bin\Debug\netcoreapp3.1\ProjetoSaqueEletronicoLunara.deps.json
+C:\Users\User\source\repos\ProjetoSaqueEletronicoLunara\ProjetoSaqueEletronicoLunara\bin\Debug\netcoreapp3.1\ProjetoSaqueEletronicoLunara.runtimeconfig.json
+C:\Users\User\source\repos\ProjetoSaqueEletronicoLunara\ProjetoSaqueEletronicoLunara\bin\Debug\netcoreapp3.1\ProjetoSaqueEletronicoLunara.runtimeconfig.dev.json
+C:\Users\User\source\repos\ProjetoSaqueEletronicoLunara\ProjetoSaqueEletronicoLunara\bin\Debug\netcoreapp3.1\ProjetoSaqueEletronicoLunara.dll
+C:\Users\User\source\repos\ProjetoSaqueEletronicoLunara\ProjetoSaqueEletronicoLunara\bin\Debug\netcoreapp3.1\ProjetoSaqueEletronicoLunara.pdb
+C:\Users\User\source\repos\ProjetoSaqueEletronicoLunara\ProjetoSaqueEletronicoLunara\obj\Debug\netcoreapp3.1\ProjetoSaqueEletronicoLunara.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjetoSaqueEletronicoLunara\ProjetoSaqueEletronicoLunara\obj\Debug\netcoreapp3.1\ProjetoSaqueEletronicoLunara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ProjetoSaqueEletronicoLunara\ProjetoSaqueEletronicoLunara\obj\Debug\netcoreapp3.1\ProjetoSaqueEletronicoLunara.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProjetoSaqueEletronicoLunara\ProjetoSaqueEletronicoLunara\obj\Debug\netcoreapp3.1\ProjetoSaqueEletronicoLunara.AssemblyInfo.cs
+C:\Users\User\source\repos\ProjetoSaqueEletronicoLunara\ProjetoSaqueEletronicoLunara\obj\Debug\netcoreapp3.1\ProjetoSaqueEletronicoLunara.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjetoSaqueEletronicoLunara\ProjetoSaqueEletronicoLunara\obj\Debug\netcoreapp3.1\ProjetoSaqueEletronicoLunara.dll
+C:\Users\User\source\repos\ProjetoSaqueEletronicoLunara\ProjetoSaqueEletronicoLunara\obj\Debug\netcoreapp3.1\ProjetoSaqueEletronicoLunara.pdb
+C:\Users\User\source\repos\ProjetoSaqueEletronicoLunara\ProjetoSaqueEletronicoLunara\obj\Debug\netcoreapp3.1\ProjetoSaqueEletronicoLunara.genruntimeconfig.cache
